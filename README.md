@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Your Task
@@ -118,3 +119,6 @@ You are required to submit the following for review:
 
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+=======
+# css-demo-site-Salvador
+>>>>>>> 440a1fea8296ff65b9f114599b9515bdfbadcb9a
